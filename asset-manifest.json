@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/PO-react/static/css/main.073c9b0a.css",
-    "main.js": "/PO-react/static/js/main.c57ba14f.js",
+    "main.css": "/PO-react/static/css/main.06b7885d.css",
+    "main.js": "/PO-react/static/js/main.1f2b60e9.js",
     "static/js/787.b68d2f3b.chunk.js": "/PO-react/static/js/787.b68d2f3b.chunk.js",
-    "static/media/logo.svg": "/PO-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/PO-react/index.html",
-    "main.073c9b0a.css.map": "/PO-react/static/css/main.073c9b0a.css.map",
-    "main.c57ba14f.js.map": "/PO-react/static/js/main.c57ba14f.js.map",
+    "main.06b7885d.css.map": "/PO-react/static/css/main.06b7885d.css.map",
+    "main.1f2b60e9.js.map": "/PO-react/static/js/main.1f2b60e9.js.map",
     "787.b68d2f3b.chunk.js.map": "/PO-react/static/js/787.b68d2f3b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.c57ba14f.js"
+    "static/css/main.06b7885d.css",
+    "static/js/main.1f2b60e9.js"
   ]
 }
