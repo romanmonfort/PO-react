@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/PO-react/static/css/main.06b7885d.css",
-    "main.js": "/PO-react/static/js/main.1f2b60e9.js",
+    "main.css": "/PO-react/static/css/main.632a126d.css",
+    "main.js": "/PO-react/static/js/main.c675c2c2.js",
     "static/js/787.b68d2f3b.chunk.js": "/PO-react/static/js/787.b68d2f3b.chunk.js",
+    "static/media/photo-1610540604745-3e96fba9ccef.avif": "/PO-react/static/media/photo-1610540604745-3e96fba9ccef.dd747f94e00620bd5714.avif",
+    "static/media/34147.png": "/PO-react/static/media/34147.5fcdedfd391332ca353a.png",
     "index.html": "/PO-react/index.html",
-    "main.06b7885d.css.map": "/PO-react/static/css/main.06b7885d.css.map",
-    "main.1f2b60e9.js.map": "/PO-react/static/js/main.1f2b60e9.js.map",
+    "main.632a126d.css.map": "/PO-react/static/css/main.632a126d.css.map",
+    "main.c675c2c2.js.map": "/PO-react/static/js/main.c675c2c2.js.map",
     "787.b68d2f3b.chunk.js.map": "/PO-react/static/js/787.b68d2f3b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06b7885d.css",
-    "static/js/main.1f2b60e9.js"
+    "static/css/main.632a126d.css",
+    "static/js/main.c675c2c2.js"
   ]
 }
